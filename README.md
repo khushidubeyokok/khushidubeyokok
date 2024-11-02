@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Khushi Dubey, a passionate and dedicated student pursuing a Bachelor's in Artificial Intelligence and machine Learning at MSRIT, Bangalore. I am enthusiastic about different fields of computer science, especially AIML. I am always eager to learn and work on real-world projects that can make a difference.
+I'm Khushi Dubey, a passionate and dedicated student pursuing a Bachelor's in Artificial Intelligence and Machine Learning at MSRIT, Bangalore. I am enthusiastic about different fields of computer science, especially AIML. I am always eager to learn and work on real-world projects that can make a difference.
+I’m constantly looking for new learning opportunities in AI and ML, especially hands-on projects that can challenge my skills. I enjoy collaborating with like-minded peers to expand my understanding and contribute to impactful projects.
 
 
 ## 🌐 Socials:
@@ -14,9 +15,6 @@ I'm Khushi Dubey, a passionate and dedicated student pursuing a Bachelor's in Ar
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khushidubeyokok&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=khushidubeyokok&limit=5&theme=dark&combine_all_yearly_contributions=true)
